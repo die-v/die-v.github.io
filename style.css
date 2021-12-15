@@ -48,7 +48,7 @@ body {
 
 .calc-button:hover {
     background-color: #bbbcbe;
-    color: yellow
+    color: blueviolet
 }
 .calc-button:active {
     background-color: red;
