@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nurmukhammad Mukhammadiev"
-  avatar           : "pic.png"
+  avatar           : "/files/pic.png"
   bio              : "A sophomore at Georgetown University interested in CS, Startups, Entrepreneurship"
   location         : "Doha, Qatar"
   employer         :
