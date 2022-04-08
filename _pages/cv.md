@@ -40,43 +40,32 @@ income families. Oversaw all the operations surrounding the formation and the ge
 - <span> Worked with several NGOs (SOWCoders, Ewoman, DareUS) in the US to offer a robust programming course curriculum </span>
 - <span> More than 56 students have graduated from both English and Coding classes since 2018. </span>
 
-###  <span>Let’sGo App</span> | <span>March 2020 – May 2020</span> 
-####  <span>Co-Founder</span> <span>United States (Remote)</span>    
 
-- <span> <span>Oversaw all the software development operations and
-        led a team of front-end engineers. </span> </span>
-- <span> <span>Developed a fast and responsive database for the
-        application. </span> </span>
-- <span> <span>Worked on the back-end architecture of the software
-        and deployed bi-monthly updates. </span> </span>
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## ACHIEVEMENTS
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+###  <span>Microsoft Imagine Cup (product: avicen.me)</span> | <span>December 2021 – March 2022/span> 
+####  <span>Nationals Qualifier</span> <span>Doha, Qatar</span>    
+
+- <span> <span>Developed a triage and preliminary diagnosis tool to 
+diagnose the user based on the symptoms provided.</span> </span>
+- <span> <span>Used Azure tools including Machine Learning and NLP, 
+Telegram bot API, MS Teams to develop the product. </span> </span>
+- <span> <span>Qualified for Qatar nationals out of 120 students. </span> </span>
+
+###  <span>International Collegiate Programming Contest </span> | <span>October 2021 – December 2021/span> 
+####  <span>World semifinalist</span> <span>Doha, Qatar</span>    
+
+- <span> <span>Our team came in top 5 in ICPC Qatar nationals 
+level and qualified for the world semifinals.</span> </span>
+
+## SKILLS
+
+<span> **Programming Languages:** <span> Python, SQL (PostgreSQL,
+MySQL, NoSQL)</span>  
+**Python Libraries:** <span>Numpy/Scipy, sklearn, Pandas, Matplotlib,
+Python-Telegram-API</span>  
+**Tools:** <span>Microsoft Azure, Notion, Tableau, GitHub, LaTeX, MS
+Office, Trello</span> </span>
+
+<span> **Languages:** <span>Uzbek (Native), English (Fluent)</span>  
+**Interests:** <span>Swimming, Guitar</span> </span>
