@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Noor"
+title                    : "Noor Diev"
 title_separator          : "-"
 name                     : &name "Nurmukhammad Mukhammadiev"
 description              : &description "Sophomore in Georgetown University interested in CS, Startups, Entrepreneurship"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nurmukhammad Mukhammadiev"
   avatar           : "pic.jpg"
-  bio              : "A sophomore at Georgetown University interested in CS, Startups, Entrepreneurship"
+  bio              : "A sophomore at Georgetown University interested in CS, Startups, and Entrepreneurship"
   location         : "Doha, Qatar"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : nm993@georgetown.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
