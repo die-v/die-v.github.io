@@ -1,5 +1,5 @@
 ---
-title: "diwan.shop"
+title: "ingenium school"
 excerpt: "Diwan is an online store connecting retailers with consumers in Qatar.<br/><img src='/images/diwannew.png'>"
 collection: portfolio
 ---

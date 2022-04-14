@@ -15,7 +15,7 @@ redirect_from:
 
 ## EXPERIENCE
 
-### <span>Research Assistant</span> | <span>Feb 2022 - Present</span>
+### <span>Research with Professor</span> | <span>Feb 2022 - Present</span>
 #### <span>  Data Scientist </span> | <span>Doha, Qatar</span>
 - <span> Collect Airline industry data for a research project with a Georgetown professor using enterprise APIs. </span>
 - <span> Utilize analytical and technical expertise to provide insights about the overall airline industry in GCC. </span>
