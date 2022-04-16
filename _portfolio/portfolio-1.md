@@ -1,6 +1,6 @@
 ---
 title: "diwan.shop"
-excerpt: "Diwan is an online store connecting retailers with consumers in Qatar.<br/><img src='/images/diwannew.png'>"
+excerpt: "Diwan is an online store connecting retailers with consumers in Qatar.<br/><img src='/images/diwan.png'>"
 collection: portfolio
 ---
 
