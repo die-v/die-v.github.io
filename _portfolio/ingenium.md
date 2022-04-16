@@ -1,7 +1,7 @@
 ---
 title: "ingenium school"
-excerpt: "Diwan is an online store connecting retailers with consumers in Qatar.<br/><img src='/images/diwannew.png'>"
+excerpt: "Democratizing education in Uzbekistan.<br/><img src='/images/ingenium.png'>"
 collection: portfolio
 ---
 
-ingenium school is the first free online school in uzbekistan
+ingenium school is the first free online school in uzbekistan bridging the gap in STEM fields. Go to [www.ingenium.world](www.ingenium.world) to learn more!
