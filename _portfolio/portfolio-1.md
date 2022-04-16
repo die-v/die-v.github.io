@@ -4,4 +4,4 @@ excerpt: "Diwan is an online store connecting retailers with consumers in Qatar.
 collection: portfolio
 ---
 
-Go to [www.diwan.shop](www.diwan.shop) to join the waitlist and get a free delivery on your first order! 
+Go to [www.diwan.shop](https://www.diwan.shop) to join the waitlist and get a free delivery on your first order! 
