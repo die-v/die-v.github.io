@@ -4,4 +4,4 @@ excerpt: "Democratizing education in Uzbekistan.<br/><img src='/images/ingenium.
 collection: portfolio
 ---
 
-ingenium school is the first free online school in uzbekistan bridging the gap in STEM fields. Go to [www.ingenium.world](www.ingenium.world) to learn more!
+ingenium school is the first free online school in uzbekistan bridging the gap in STEM fields. Go to [www.ingenium.world](https://www.ingenium.world) to learn more!
