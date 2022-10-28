@@ -15,8 +15,3 @@ I am an aspiring software developer and economist who enjoys connecting the dots
 My background and history
 ======
 I'm currently studying Economics at Georgetown University and expect to graduate in 2024. I have been working as a Data Scientist in Georgetown for the past 5 months on a research topic related to Qatar's economy. I have an NGO in Uzbekistan that we have been operating since 2018 to bridge the gender gap in STEM.
-
-Fun Facts About Me
-======
-- <span> I have 14k image views on Google Maps </span>
-- <span> Valeriia Get a life </span>
