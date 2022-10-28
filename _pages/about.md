@@ -19,4 +19,4 @@ I'm currently studying Economics at Georgetown University and expect to graduate
 Fun Facts About Me
 ======
 - <span> I have 14k image views on Google Maps </span>
-- <span> I have 3 cats and a dog </span>
+- <span> Valeriia Get a life </span>
